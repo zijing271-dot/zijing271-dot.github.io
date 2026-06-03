@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zijing271-dot.github.io/omega-empire/sitemap.xml
